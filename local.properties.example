@@ -1,0 +1,9 @@
+# Copy to local.properties and fill only on the development machine.
+# Never commit real tokens or API keys.
+sdk.dir=C:/Android
+
+# Optional source credentials/provisioning:
+# youtubeApiKey=
+# vkApiToken=
+# vkApiVersion=5.199
+# rutubeSearchEndpoint=https://approved-partner.example/search

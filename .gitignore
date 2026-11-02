@@ -1,0 +1,37 @@
+# Android / Gradle generated files
+.gradle/
+.kotlin/
+**/build/
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+*.apks
+
+# Machine configuration and IDE state
+local.properties
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Credentials and signing material: store outside the repository
+.env
+.env.*
+!.env.example
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pem
+*.key
+key.properties
+keystore.properties
+signing.properties
+credentials*.json
+secrets.properties
+
+# Local publication artifacts
+dist/
+release-artifacts/
