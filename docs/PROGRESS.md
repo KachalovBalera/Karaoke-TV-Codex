@@ -56,6 +56,8 @@
 
 ## Проверка
 
+- Первая публикация завершена: https://github.com/KachalovBalera/Karaoke-TV-Codex/releases/tag/v1.0.0. APK анонимно скачан обратно, SHA-256 совпадает с локальным release APK и GitHub API digest. Дальнейшие релизы не автоматизированы и требуют отдельной команды владельца. Сквозная OTA-установка на устройстве остаётся непроверенной.
+
 ### Подготовка первой публикации 1.0.0
 
 - assembleRelease и lintVitalRelease: BUILD SUCCESSFUL. apksigner verify: подпись v2 корректна, CN=Karaoke TV Codex, RSA 3072. Сертификат SHA-256 a925bf2a0383181a486d33b947bf2ae7be54a372d69844c93512ce05b6b3fdd4.
